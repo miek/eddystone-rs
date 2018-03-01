@@ -1,0 +1,12 @@
+[package]
+name = "eddystone"
+version = "0.1.0"
+authors = ["Mike Walters <mike@flomp.net>"]
+
+[dependencies]
+bincode = "*"
+byteorder = "*"
+hex = "*"
+rust-crypto = "*"
+serde = "*"
+serde_derive = "*"
